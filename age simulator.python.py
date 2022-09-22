@@ -1,0 +1,8 @@
+print("WELCOME TO AGE SIMULATOR")
+brother = input('Enter your name: ')
+age = input('Enter your age: ')
+sister = input("Enter your sister's name: ")
+age = input("Enter yourn sister'S age: ")
+print(f'Thank you {brother}')
+print(brother + " is older than " + sister)
+print(f'Good Luck {bother}')
